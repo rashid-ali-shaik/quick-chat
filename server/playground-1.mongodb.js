@@ -1,5 +1,5 @@
 use("quick-chat");
-
-db.users.find({});
-
+db.messages.find({});
+// db.users.find({});
+// db.chats.find({});
 // db.users.deleteMany({});
